@@ -36,5 +36,11 @@ a {
 }
 .navbar{
   background: url("https://i0.wp.com/www.factweavers.com/blog/wp-content/uploads/2018/02/vuejs.png?fit=1120%2C373&ssl=1&resize=1280%2C720") ;
+  margin: auto;
+  padding: 5%;
+  border-radius: 20px
+}
+h1{
+  color: #F6F6F6
 }
 </style>
