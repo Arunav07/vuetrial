@@ -1,6 +1,8 @@
 <template>
+<div class="div">
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld msg="Hello, This is me trying VueJS for the first time. 😎"/>
+  </div>
 </template>
 
 <script>
@@ -22,5 +24,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+HelloWorld{
+  color: black
 }
 </style>
