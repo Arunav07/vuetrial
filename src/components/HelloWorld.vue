@@ -35,12 +35,18 @@ a {
   color: #42b983;
 }
 .navbar{
-  background: url("https://i0.wp.com/www.factweavers.com/blog/wp-content/uploads/2018/02/vuejs.png?fit=1120%2C373&ssl=1&resize=1280%2C720") ;
   margin: auto;
   padding: 5%;
-  border-radius: 20px
+  border-radius: 20px;
+  object-fit: fill;
+  background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 11.5px );
+-webkit-backdrop-filter: blur( 11.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 h1{
-  color: #F6F6F6
+  color: #323232
 }
 </style>
