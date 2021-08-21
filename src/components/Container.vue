@@ -37,10 +37,13 @@ ul li{
     font-family: SF PRO DISPLAY;
     text-align: center;
     text-transform: uppercase;
-    color: #352786
+    color: #e0b8fa;
+    font-size: 22px;
+    cursor: pointer;
 }
 ul{
     justify-content: space-evenly;
     display: flex;
+    padding: 5%
 }
 </style>
